@@ -1,0 +1,9 @@
+- add ability to add planets to a local database
+- add ability to output as pdf or html
+- power spectrum of star from kepler 
+- add support for using the multiexopars and koi database in addition to confirmed planets
+- add ability to grab transits for a window (besides next 1 year)
+
+Getting a list of planets in a given range of parameter space will be faster 
+if done at the database level rather than by running through all the planets 
+at the level of my code. 
